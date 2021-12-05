@@ -5,3 +5,6 @@ def model_1:
 
 def model_2:
     print("model 2 for measuring weather")
+
+#Finalising model_2 as it is giving 80% accuracy
+model_2()
